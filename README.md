@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey, I'm tobezdev.
 
-<!--
-**TobezDev/tobezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 15y/o software & frontend developer from the UK.
+You can find my links below:
 
-Here are some ideas to get you started:
+🌐: [tobez.dev](https://tobez.dev)
+📩@ [contact@tobez.dev](mailto:contact@tobez.dev?from=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Manager at Viscurity - revolutionizing Discord security, one community at a time.
+- [Viscurity's Website](https://viscurity.com)
+- [Viscurity's Discord Server](https://discord.gg/rHg6bdzU7V)
+
+#### Head Developer at QuantrumMC
+- [QuantrumMC's Website](https://store.quantrummc.net)
+- [Add QuantrumMC to your MinecrafT Server List](minecraft://addexternalserver?name=QuantrumMC?ip=play.quantrummc.net?resources=prompt)
