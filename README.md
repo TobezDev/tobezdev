@@ -1,6 +1,6 @@
-## Hey, I'm tobezdev.
-
-I'm a 15y/o software & frontend developer from the UK.<br>You can find my links below:<br><br>
+## Hey, I'm tobezdev...
+...a 15y/o software & frontend developer from the UK.<br>You can find my links below:
+<br><br>
 🌐: [tobez.dev](https://tobez.dev)<br>
 📩: [contact@tobez.dev](mailto:contact@tobez.dev?from=github)
 <br><br>
