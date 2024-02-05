@@ -11,5 +11,5 @@ I'm a 15y/o software & frontend developer from the UK.<br>You can find my links 
 #### Head Developer at QuantrumMC<br>
 - [QuantrumMC's Website](https://store.quantrummc.net)
 - To add QuantrumMC to your Minecraft Server List:
-  - Add the IP `play.quantrummc.net` into your server list manually,or:
+  - Add the IP `play.quantrummc.net` into your server list manually, or:
   - Open your device's terminal and paste: `minecraft://addexternalserver?name=QuantrumMC?ip=play.quantrummc.net?resources=prompt`
