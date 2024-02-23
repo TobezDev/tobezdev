@@ -4,6 +4,8 @@
 🌐: [tobez.dev](https://tobez.dev)<br>
 📩: [contact@tobez.dev](mailto:contact@tobez.dev?from=github)
 <br><br>
+#### Chief Technical Officer at Vimto Development
+
 #### Manager at **Shielder Bot** - revolutionizing Discord security, one community at a time.
 - [Website Coming Soon](https://tobez.dev)
 - [Discord Server](https://discord.gg/rHg6bdzU7V)
