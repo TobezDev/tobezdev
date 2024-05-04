@@ -14,4 +14,4 @@
 - To add QuantrumMC to your Minecraft Server List:
   - Add the IP ` play.quantrummc.net ` into your server list manually, or:
   - Open your device's terminal and paste:
-    <br>` minecraft://?addExternalServer=QuantrumMC|play.quantrummc.net `
+    <br>` minecraft:?addExternalServer=QuantrumMC|play.quantrummc.net `
