@@ -6,7 +6,7 @@
 <br><br>
 
 #### Manager at **Shielder Bot** - revolutionizing Discord security, one community at a time.
-- [Website Coming Soon](https://tobez.dev)
+- [Website](https://shielderbot.org)
 - [Discord Server](https://discord.gg/rHg6bdzU7V)
 
 #### Head Developer at QuantrumMC<br>
