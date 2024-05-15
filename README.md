@@ -1,8 +1,8 @@
-https://tobez.dev/
-https://shielderbot.org/
+https://tobez.dev/ <br>
+https://shielderbot.org/ <br>
 
-Manager @ Shielder Bot
-Head Developer @ MSA: Server Awards
-Head Developer @ Vanguard MW
-Head Developer @ QuantrumMC
-Developer @ Moonsworth Development
+Manager @ Shielder Bot <br>
+Head Developer @ MSA: Server Awards <br>
+Head Developer @ Vanguard MW <br>
+Head Developer @ QuantrumMC <br>
+Developer @ Moonsworth Development <br>
