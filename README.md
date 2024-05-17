@@ -23,7 +23,7 @@ You can see my portfolio [here](https://tobez.dev/)!<br>
 
 
 ### Tools & Experience
-<p align="center">
+<a align="center" href="https://tobez.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,apple,arduino,astro,atom,aws,azure,bash,blender,bun,cloudflare,css,debian,discord,bots,discordjs,eclipse,fastapi,figma,firebase,flask,gcp,git,github,githubactions,gmail,go,godot,html,htmx,idea,java,js,linkedin,linux,md,mongodb,mysql,netlify,nextjs,nginx,npm,php,pnpm,powershell,pycharm,py,raspberrypi,react,regex,replit,sqlite,stackoverflow,sublime,swift,tailwind,tensorflow,twitter,ts,ubuntu,unity,unreal,vercel,vscode,windows&theme=dark&perline=22" />
 </p>
 
