@@ -1,11 +1,14 @@
 # Hey, I'm tobezdev!
-...a junior fullstack developer from the UK.<br>
-You can see my portfolio [here](https://tobez.dev/)!<br>
+
+Chief Technical Officer @ Verex Studios
+🌐 [coming soon]
+✉️ [coming soon]
 
 
 ## My Setup
-|      Case      |     LIDAX Leviathan X (Black)     |
+|   My PC Parts  |                                   |
 |:--------------:|:---------------------------------:|
+|      Case      |     LIDAX Leviathan X (Black)     |
 |   Motherboard  |      MSI Pro B650-P Ethernet      |
 | Graphics Cards |       AMD Radeon RX 7900 XTX      |
 |    Processor   |     AMD Ryzen 9 7500X3D 5.7GHz    |
@@ -62,12 +65,3 @@ You can see my portfolio [here](https://tobez.dev/)!<br>
     <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shielderbot-org&repo=shielderbot.org&theme=transparent" />
   </a>
 </p>
-
-
-## Contact
-**Any issues or enquiries? Contact our team:**
-* [Generic Questions](mailto:contact@tobez.dev)
-* [Legal Questions](mailto:legal@tobez.dev) (policies, copyright, etcetera)
-* **Project-specific support:**
-    - [Shielder Bot](mailto:support@shielderbot.org)
-    - [tobezdev Studios](mailto:contact@studios.tobez.dev)
