@@ -1,8 +1,8 @@
 # Hey, I'm tobezdev!
 
-Chief Technical Officer @ Verex Studios
-🌐 [coming soon]
-✉️ [coming soon]
+Chief Technical Officer @ Verex Studios<br>
+🌐 [coming soon]<br>
+✉️ [coming soon]<br>
 
 
 ## My Setup
