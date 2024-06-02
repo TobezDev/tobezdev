@@ -1,27 +1,8 @@
 # Hey, I'm tobezdev!
 
 Chief Technical Officer @ Verex Studios<br>
-🌐 [coming soon]<br>
-✉️ [coming soon]<br>
-
-
-## My Setup
-|:--------------:|:---------------------------------:|
-|      Case      |     LIDAX Leviathan X (Black)     |
-|   Motherboard  |      MSI Pro B650-P Ethernet      |
-| Graphics Cards |       AMD Radeon RX 7900 XTX      |
-|    Processor   |     AMD Ryzen 9 7500X3D 5.7GHz    |
-|     Memory     |   XIDAX PREF. DDR5 5600MHz 32gb   |
-|       SSD      |     XIDAX PREF. NVME M.2 (2TB)    |
-|       HDD      | WD Red Pro NAD HDD 7200rpm (20TB) |
-|     Cooling    |        XIDAX Ultra RGB AIO        |
-|  Power Supply  |      750W XIDAX APP. 80+ Gold     |
-|    Lighting    |              RGB LED              |
-|    Sleeving    |      Lian II Strimmer V2 RGB      |
-|       OS       |           Windows 11 Pro          |
-|   OS Recovery  |              Included             |
-|    Monitors    |    2x MSI G2712GF 27" 4k 180Hz    |
-|   Overclocked  |                Yes                |
+🌐 [verexstudios.com](https://verexstudios.com/)<br>
+✉️ [toby@users.verexstudios.com](mailto:toby@users.verexstudios.com)<br>
 
 
 ## Tools & Experience
