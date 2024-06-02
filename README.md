@@ -6,7 +6,6 @@ Chief Technical Officer @ Verex Studios<br>
 
 
 ## My Setup
-|   My PC Parts  |                                   |
 |:--------------:|:---------------------------------:|
 |      Case      |     LIDAX Leviathan X (Black)     |
 |   Motherboard  |      MSI Pro B650-P Ethernet      |
@@ -26,7 +25,7 @@ Chief Technical Officer @ Verex Studios<br>
 
 
 ## Tools & Experience
-<a align="center" href="https://tobez.dev/" target="_blank">
+<a align="center" href="https://verexstudios.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,apple,arduino,astro,atom,aws,azure,bash,blender,bun,cloudflare,css,debian,discord,bots,discordjs,eclipse,fastapi,figma,firebase,flask,gcp,git,github,githubactions,gmail,go,godot,html,htmx,idea,java,js,linkedin,linux,md,mongodb,mysql,netlify,nextjs,nginx,npm,php,pnpm,powershell,pycharm,py,raspberrypi,react,regex,replit,sqlite,stackoverflow,sublime,swift,tailwind,tensorflow,twitter,ts,ubuntu,unity,unreal,vercel,vscode,windows&theme=dark&perline=22" />
 </a>
 
@@ -34,7 +33,8 @@ Chief Technical Officer @ Verex Studios<br>
 ## Code Stats :D
 <a href="https://tobez.dev/" align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tobezdev&theme=transparent" />
-  &emsp;&emsp;&emsp;&emsp;&emsp;
+  <br>
+  <br>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobezdev&theme=transparent" />
 </a>
 
@@ -52,16 +52,7 @@ Chief Technical Officer @ Verex Studios<br>
   </a>
   <br>
   <br>
-  <a href="https://github.com/tobezdev/WARP-1.1.1.1" target="_blank">
-    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tobezdev&repo=warp-1111&theme=transparent" />
-  </a>
-  <br>
-  <br>
   <a href="https://github.com/tobezdev/python-preferred" target="_blank">
     <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tobezdev&repo=python-preferred&theme=transparent" />
-  <br>
-  <br>
-  <a href="https://github.com/shielderbot-org/shielderbot.org", target="_blank">
-    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shielderbot-org&repo=shielderbot.org&theme=transparent" />
   </a>
 </p>
